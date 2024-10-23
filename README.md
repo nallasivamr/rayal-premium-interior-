@@ -4,7 +4,7 @@ Welcome to the **Landing Page Project**! This project showcases a beautifully de
 
 ## 🌐 Live Demo
 
-Check out the live demo of the Project : https://github.com/nallasivamr/rayal-interior-design
+Check out the live demo of the Project : https://nallasivamr.github.io/rayal-premium-interior-/
 
 
 ## ✨ Features
